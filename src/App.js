@@ -1,9 +1,9 @@
 /*
-Der laves addPerson metoden i parent component som er en property af Child component: 
-Se linje 45 i denne fil
+Der laves addPerson metoden i parent component som er en property af Child component: Se linje 47 i denne fil
+I denne metode opdateres der personList med dens sætter
 Child component udfører metoden og dens result er tingengælig i parent component:
-Se her: 
-
+Se her: https://github.com/kasarama/React-day_3-Lifting-State-Up/blob/3c93e52fe506225216d0e395e3c8abbc6dc6568d/src/NewPerson.js#L13
+personList er en properyt af en enden child component: Se linje 46 i denne fil
 */
 
 import "./App.css";
